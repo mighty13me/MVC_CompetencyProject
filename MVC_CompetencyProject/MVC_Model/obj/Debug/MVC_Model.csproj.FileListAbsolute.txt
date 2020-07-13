@@ -1,0 +1,5 @@
+C:\Users\Sriharsha Chavali\source\repos\MVC_CompetencyAssignment\MVC_CompetencyProject\MVC_Model\bin\Debug\MVC_Model.dll
+C:\Users\Sriharsha Chavali\source\repos\MVC_CompetencyAssignment\MVC_CompetencyProject\MVC_Model\bin\Debug\MVC_Model.pdb
+C:\Users\Sriharsha Chavali\source\repos\MVC_CompetencyAssignment\MVC_CompetencyProject\MVC_Model\obj\Debug\MVC_Model.csproj.CoreCompileInputs.cache
+C:\Users\Sriharsha Chavali\source\repos\MVC_CompetencyAssignment\MVC_CompetencyProject\MVC_Model\obj\Debug\MVC_Model.dll
+C:\Users\Sriharsha Chavali\source\repos\MVC_CompetencyAssignment\MVC_CompetencyProject\MVC_Model\obj\Debug\MVC_Model.pdb

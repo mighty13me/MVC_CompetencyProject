@@ -1,0 +1,9 @@
+C:\Users\Sriharsha Chavali\source\repos\MVC_CompetencyAssignment\MVC_CompetencyProject\MVC_BLCP\bin\Debug\MVC_BLCP.dll
+C:\Users\Sriharsha Chavali\source\repos\MVC_CompetencyAssignment\MVC_CompetencyProject\MVC_BLCP\bin\Debug\MVC_BLCP.pdb
+C:\Users\Sriharsha Chavali\source\repos\MVC_CompetencyAssignment\MVC_CompetencyProject\MVC_BLCP\obj\Debug\MVC_BLCP.csproj.CoreCompileInputs.cache
+C:\Users\Sriharsha Chavali\source\repos\MVC_CompetencyAssignment\MVC_CompetencyProject\MVC_BLCP\obj\Debug\MVC_BLCP.dll
+C:\Users\Sriharsha Chavali\source\repos\MVC_CompetencyAssignment\MVC_CompetencyProject\MVC_BLCP\obj\Debug\MVC_BLCP.pdb
+C:\Users\Sriharsha Chavali\source\repos\MVC_CompetencyAssignment\MVC_CompetencyProject\MVC_BLCP\bin\Debug\MVC_Model.dll
+C:\Users\Sriharsha Chavali\source\repos\MVC_CompetencyAssignment\MVC_CompetencyProject\MVC_BLCP\bin\Debug\MVC_Model.pdb
+C:\Users\Sriharsha Chavali\source\repos\MVC_CompetencyAssignment\MVC_CompetencyProject\MVC_BLCP\obj\Debug\MVC_BLCP.csprojAssemblyReference.cache
+C:\Users\Sriharsha Chavali\source\repos\MVC_CompetencyAssignment\MVC_CompetencyProject\MVC_BLCP\obj\Debug\MVC_BLCP.csproj.CopyComplete
