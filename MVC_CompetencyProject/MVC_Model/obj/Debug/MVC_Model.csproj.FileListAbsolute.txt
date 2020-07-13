@@ -4,3 +4,7 @@ C:\Users\Sriharsha Chavali\source\repos\MVC_CompetencyAssignment\MVC_CompetencyP
 C:\Users\Sriharsha Chavali\source\repos\MVC_CompetencyAssignment\MVC_CompetencyProject\MVC_Model\obj\Debug\MVC_Model.dll
 C:\Users\Sriharsha Chavali\source\repos\MVC_CompetencyAssignment\MVC_CompetencyProject\MVC_Model\obj\Debug\MVC_Model.pdb
 C:\Users\Sriharsha Chavali\source\repos\MVC_CompetencyAssignment\MVC_CompetencyProject\MVC_Model\obj\Debug\MVC_Model.csprojAssemblyReference.cache
+C:\Users\SChavali\Source\Repos\mighty13me\MVC_CompetencyProject\MVC_CompetencyProject\MVC_Model\bin\Debug\MVC_Model.dll
+C:\Users\SChavali\Source\Repos\mighty13me\MVC_CompetencyProject\MVC_CompetencyProject\MVC_Model\bin\Debug\MVC_Model.pdb
+C:\Users\SChavali\Source\Repos\mighty13me\MVC_CompetencyProject\MVC_CompetencyProject\MVC_Model\obj\Debug\MVC_Model.dll
+C:\Users\SChavali\Source\Repos\mighty13me\MVC_CompetencyProject\MVC_CompetencyProject\MVC_Model\obj\Debug\MVC_Model.pdb

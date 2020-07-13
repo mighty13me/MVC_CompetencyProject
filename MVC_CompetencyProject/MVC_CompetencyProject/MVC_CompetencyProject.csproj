@@ -165,11 +165,11 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Registration\Registration.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
-    <Folder Include="Views\Registration\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
@@ -192,6 +192,10 @@
     <ProjectReference Include="..\MVC_Model\MVC_Model.csproj">
       <Project>{048dbdde-30ff-4a3b-a65b-e7081eb8740e}</Project>
       <Name>MVC_Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UtilityHelper\UtilityHelper.csproj">
+      <Project>{d657e53f-e37f-4a0a-931d-ff2dd295dcb0}</Project>
+      <Name>UtilityHelper</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

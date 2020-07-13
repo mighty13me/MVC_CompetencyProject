@@ -19,7 +19,7 @@ namespace MVC_Model
         public int CountryID { get; set; }
         public string Languages { get; set; }
         public string Gender { get; set; }
-        public int Address { get; set; }
+        public string Address { get; set; }
 
 
     }
