@@ -25,17 +25,18 @@ namespace MVC_CompetencyProject.Infrastructure.Respository
             {
                 con.Open();
                 com.Parameters.AddWithValue("@pLogin", ud.LoginName);
-                com.Parameters.AddWithValue ("@pPassword", ud.PasswordHash);
+                com.Parameters.AddWithValue("@pPassword", ud.PasswordHash);
                 com.Parameters.AddWithValue("@pEmail", ud.Email);
                 com.Parameters.AddWithValue("@pFirstName", ud.FirstName);
                 com.Parameters.AddWithValue("@pCountryID", ud.CountryID);
                 com.Parameters.AddWithValue("@pLanguages", ud.Languages);
                 com.Parameters.AddWithValue("@pGender", ud.Gender);
                 com.Parameters.AddWithValue("@pAddress", ud.Address);
+                com.Parameters.AddWithValue("@pDOB", ud.DOB);
 
-                SqlParameter p = com.Parameters.Add("@responseMessage", SqlDbType.VarChar,50);
+                SqlParameter p = com.Parameters.Add("@responseMessage", SqlDbType.VarChar, 50);
                 p.Direction = ParameterDirection.Output;
-                
+
 
                 com.ExecuteNonQuery();
                 result = p.Value.ToString();
