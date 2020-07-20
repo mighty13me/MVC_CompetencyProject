@@ -12,6 +12,8 @@ namespace MVC_CompetencyProject.Controllers
     public class RegistrationController : Controller
     {
         IUserActions obj = new Registration();
+
+
         // GET: Registration
         [HttpGet]
         public ActionResult Registration()
@@ -32,6 +34,15 @@ namespace MVC_CompetencyProject.Controllers
         public ActionResult Registration(UserDetail ud, FormCollection col)
         {
 
+            var countries = UtilityHelper.GetCountries();
+            ViewBag.Countries = countries;
+
+            var gender = UtilityHelper.GetGender();
+            ViewBag.Gender = gender;
+
+            var languages = UtilityHelper.GetLanguages();
+            ViewBag.Languages = languages;
+
             if (!string.IsNullOrEmpty(col["languages"]))
             {
                 string checkResp = col["languages"];
@@ -42,9 +53,12 @@ namespace MVC_CompetencyProject.Controllers
 
             if (res.Equals("Success"))
             {
+                ViewBag.Message = "User Creation Successful! Sent out an email to entered address Please use Sign In page to Login";
                 var rs = UtilityHelper.SendEmail(ud.Email, ud.LoginName, ud.PasswordHash);
+                ModelState.Clear();
             }
-            return View();
+
+            return View("Registration");
         }
 
     }
